@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber and Cloud Skills
 - 📫 How to reach me - via LinkedIn @Mafuja
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't bite :B
+- ⚡ Fun fact: I don't bite:B
 
 <!---
 MafujaA/MafujaA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
